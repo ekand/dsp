@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
-Python 3.7.3
+Python 3.7.3  
 Note: Anaconda didn't appear to have 3.6 available when I installed it.
 
  
