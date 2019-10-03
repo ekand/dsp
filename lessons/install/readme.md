@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Python 3. It's what Metis recommends, and things seem to be moving in that direction.
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,8 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Python 3.7.3
+Note: Anaconda didn't appear to have 3.6 available when I installed it.
 
  
 
